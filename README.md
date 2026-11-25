@@ -2,9 +2,11 @@
 
 I manage IT projects and design processes. When a decision comes out of a meeting, I want to know two things: what did we actually agree on, and who owns the next step?
 
-## Process governance in practice
+## My projects
 
-**The Daltons** is a worked example from my Black Signal Lab. It starts with a fictional meeting note. You can follow one apparent decision back to the words that support it, see where an action has no owner, and check what a human reviewer approves before the summary goes out. [Walk through the example](https://github.com/ThresholdOps/black-signal-lab/blob/main/case-studies/the-daltons/walkthrough.md)
+**Black Signal Lab v0.1** is a completed collection of three case studies on using AI in work that needs human review. In **The Daltons**, a fictional meeting note contains what sounds like a decision. You can trace it back to the exact words, spot an action without an owner, and see what the reviewer approves. I closed v0.1 after checking all three cases against the same review criteria. [Walk through The Daltons](https://github.com/ThresholdOps/black-signal-lab/blob/main/case-studies/the-daltons/walkthrough.md) · [Read the closure review](https://github.com/ThresholdOps/black-signal-lab/blob/main/BASELINE_CLOSURE_REVIEW.md)
+
+**Kalkulator wypłat v0.8.2** is a Polish take-home pay and budget calculator. Try it with the example figures, add a bonus, and see how it changes one month’s pay and the budget for the year. It runs in the browser and saves the plan on your device. [Try the calculator (in Polish)](https://thresholdops.github.io/kalkulator-wyplat/) · [View the source](https://github.com/ThresholdOps/kalkulator-wyplat)
 
 ## Selected contributions
 
