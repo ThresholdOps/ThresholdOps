@@ -8,6 +8,8 @@ I manage IT projects and design processes. When a decision comes out of a meetin
 
 **Kalkulator wypłat v0.8.2** is a Polish take-home pay and budget calculator. Try it with the example figures, add a bonus, and see how it changes one month’s pay and the budget for the year. It runs in the browser and saves the plan on your device. [Try the calculator (in Polish)](https://thresholdops.github.io/kalkulator-wyplat/) · [View the source](https://github.com/ThresholdOps/kalkulator-wyplat)
 
+**NOESIS** is an architecture I’m developing for persistent game worlds. Imagine a key changing hands in a crowded tavern. The world engine records who has the key and which characters saw the exchange. NOESIS defines what evidence each character’s AI narrator can draw on, so a witness can describe the handover and someone across the room can still believe the key is in its old owner’s pocket. [Explore the NOESIS architecture](https://github.com/ThresholdOps/noesis)
+
 ## Selected contributions
 
 - **TinyMUX.** Running `make clean` deleted a tracked source file. I fixed the build rule and checked on Linux that cleanup kept the file and that changing its input still regenerated it. The maintainer merged the fix. [Pull request #1959](https://github.com/brazilofmux/tinymux/pull/1959)
